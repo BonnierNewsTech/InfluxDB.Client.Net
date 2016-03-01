@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
     <metadata>
-        <id>BonnierNews.InfluxDb.Client</id>
+        <id>AdysTech.InfluxDB.Client.Net</id>
         <version>0.0.0</version>
-        <title>BonnierNews.InfluxDb.Client</title>
+        <title>AdysTech.InfluxDB.Client.Net</title>
         <authors>DI Konsument</authors>
         <owners>DI Konsument</owners>
         <projectUrl>https://github.com/BonnierNewsTech/InfluxDB.Client.Net.git</projectUrl>
